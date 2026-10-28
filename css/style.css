@@ -744,6 +744,7 @@ nav .nav-right-part .links a:hover {
 
 .related-products .item-product .img-item img {
     width: 100%;
+    height: 100%;
     border-radius: 20px;
     transition: .3s;
 }
